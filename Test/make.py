@@ -1,5 +1,6 @@
 # !/usr/bin/python
 # -*-coding:utf-8 -*-
+#
 while True:
     day = 1 #上班天数
     day_time = 1 #每日乘坐次数
